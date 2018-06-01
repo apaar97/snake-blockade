@@ -1,2 +1,2 @@
-# SnakeGame
-A minimal implementation of the classic snake game in pygame
+### Classic SnakeGame
+A minimal implementation of the classic snake game in Pygame
